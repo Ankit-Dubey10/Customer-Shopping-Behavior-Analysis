@@ -97,7 +97,7 @@ Connected Power BI to MS SQL Server and built an interactive dashboard with:
 - **Donut Chart:** Subscription status breakdown (Yes 27% / No 73%)
 - **Bar Charts:** Revenue and Sales by Category, Revenue and Sales by Age Group
 - **Slicers:** Filter by Subscription Status, Gender, Category, Shipping Type
-https://github.com/Ankit-Dubey10/Customer-Shopping-Behavior-Analysis/blob/main/dashboard.png
+![Project Image](https://github.com/Ankit-Dubey10/Customer-Shopping-Behavior-Analysis/blob/main/dashboard.png)
 ---
 
 ## 💡 Business Recommendations
