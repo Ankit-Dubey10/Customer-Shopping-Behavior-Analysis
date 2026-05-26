@@ -97,7 +97,7 @@ Connected Power BI to MS SQL Server and built an interactive dashboard with:
 - **Donut Chart:** Subscription status breakdown (Yes 27% / No 73%)
 - **Bar Charts:** Revenue and Sales by Category, Revenue and Sales by Age Group
 - **Slicers:** Filter by Subscription Status, Gender, Category, Shipping Type
-
+https://github.com/Ankit-Dubey10/Customer-Shopping-Behavior-Analysis/blob/main/dashboard.png
 ---
 
 ## 💡 Business Recommendations
@@ -112,46 +112,3 @@ Based on the analysis, the following strategic actions are recommended:
 6. **Express Shipping Upsell** — Express shipping users spend slightly more; promoting it could lift average order value.
 
 ---
-
-## ⚙️ How to Run This Project
-
-### Prerequisites
-- Python 3.x with: `pandas`, `sqlalchemy`, `pyodbc`, `matplotlib`, `seaborn`
-- MS SQL Server (or MySQL/PostgreSQL) with a database named `customer_behaviour`
-- Power BI Desktop
-
-### Steps
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/customer-behavior-analysis.git
-   cd customer-behavior-analysis
-   ```
-
-2. **Run the Jupyter Notebook**
-   - Open `Customer_Shopping_Behavior_Analysis.ipynb`
-   - Update the database connection cell with your credentials
-   - Run all cells — this cleans the data and loads it into SQL
-
-3. **Run SQL Queries**
-   - Open SSMS and connect to your local SQL Server
-   - Open `customer_behavior_sql_queries.sql`
-   - Select `customer_behaviour` database and run queries
-
-4. **Open Power BI Dashboard**
-   - Open `customer_behavior_dashboard.pbix`
-   - Update the data source to point to your local SQL Server
-   - Refresh to load your data
-
----
-
-## 📬 Connect With Me
-
-Feel free to connect if you have feedback or questions!
-
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 📧 Email: [Your Email]
-
----
-
-*This project was built as part of my Data Analytics portfolio to demonstrate end-to-end analytical skills across Python, SQL, and Power BI.*
